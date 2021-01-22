@@ -5,6 +5,7 @@ Why introduce new ideas?
 * The Red Queen Effect: “it takes all the running you can do, to keep in the same place.”
 * Engagement - Only 34% of US workers are engaged in their job
 * Progress - New ideas are a chance for biz growth and employee engagement
+
 What is a new idea?
 ------------------------
 * An idea not currently part of your organization’s culture
@@ -15,6 +16,7 @@ What is a new idea?
 ** Adoption – an external idea brought into an organization
 ** Implementation – How a new idea works within an org.
 ** Continuous vs discontinuous - Continuous ideas allow people to continue to work in the same way, while discontinuous ideas require new ways of working & learning
+
 Myths
 ------------------------
 * Good ideas stand on their own
@@ -22,11 +24,13 @@ Myths
 * Communication is perfect. Everyone understands the new idea
 * The benefits are obvious
 * It’s not my job to introduce new ideas
+
 How do new ideas propagate?
 ------------------------
 * Change Agent
 * Culture
 * People
+
 Attributes of a Change Agent
 ------------------------
 * Persistence / Passion for an idea
@@ -35,6 +39,7 @@ Attributes of a Change Agent
 * Has Empathy- Can negotiate agreement / alignment
 * Can measure progress
 * Ability to adjust based on feedback
+
 Is your organization ready?
 ------------------------
 * Purpose is your moral imperative, it is the scope of what you are doing and why you are doing it. It is the reason why others follow you.
@@ -42,6 +47,7 @@ Is your organization ready?
 * Climate describes the forces that act upon the environment. It is the patterns of the seasons and the rules of the game. These impact the landscape and you don’t get to choose them but you can discover them. It includes your competitors actions.
 * Doctrine is the training of your forces, the standard ways of operating and the techniques that you almost always apply. These are the universal principles, the set of beliefs that appear to work regardless of the landscape that is faced.
 * Leadership is about the strategy that you choose considering your purpose, the landscape, the climate and your capabilities. It is to “the battle at hand”. It is context specific i.e. these techniques are known to depend upon the landscape and your purpose.
+
 Methods for providing context
 ------------------------
 * Facts / Data / Charts
@@ -50,6 +56,7 @@ Methods for providing context
 * Emotional Appeal / Metaphor
 * SWOT / Consultant Matrix
 * Cost / Benefit / Growth
+
 Patterns for introducing ideas – How to make change happen?
 ------------------------
 * A beginning Set
@@ -59,6 +66,7 @@ Patterns for introducing ideas – How to make change happen?
 ** Step by Step
 * Other patterns
 **  Ask for help
+
 Methods for leveraging influence over the audience
 ------------------------
 * Top-down (mission statement)
@@ -68,6 +76,7 @@ Methods for leveraging influence over the audience
 * Local Expert / Guru
 * Innovators / Early adopters
 * By Reference (outside authority)
+
 Assessing Progress
 ------------------------
 * Adoption Curve
@@ -75,12 +84,14 @@ Assessing Progress
 * Fail Fast / Know when to stop
 * Share successes
 * It’s not “your idea” it’s “our idea”
+
 Why change is hard
 ------------------------
 * Ref: Systems bible
 * “People are not resistant to change. They are resistant to being changed.”
 * Buy in: Dictate < Participate < Collaborate
 * Transparency - you have to be honest with the “why” of this idea
+
 Inspiration
 ------------------------
 * “It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.”  — Charles Darwin
@@ -88,6 +99,7 @@ Inspiration
 * “When people are asked to work in some different way, their instinctive reaction is to ask “What’s in it for me?” But that’s the wrong question. The right question is “What’s in it for us?”” - Karl Wiegers
 * “The harder you try to play it safe, the more likely you are to fail.” Seth Godin
 * “Ideas in secret die. They need light and air or they starve to death. The more people you share your idea with, the more likely it is to become real.” - Seth godin 
+
 Further Reading
 ------------------------
 * Wardley - Red Queen Hypothesis https://en.wikipedia.org/wiki/Red_Queen_hypothesis
