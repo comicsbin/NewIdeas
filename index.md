@@ -11,12 +11,11 @@ What is a new idea?
 * An idea not currently part of your organization’s culture
 * Organization can be a team, department, group, study group, book club, etc.
 * Context
-
-  ** Invention – A new idea without context
-  ** Innovation – an existing idea used in a new way
-  ** Adoption – an external idea brought into an organization
-  ** Implementation – How a new idea works within an org.
-  ** Continuous vs discontinuous - Continuous ideas allow people to continue to work in the same way, while discontinuous ideas require new ways of working & learning
+   * Invention – A new idea without context
+   * Innovation – an existing idea used in a new way
+   * Adoption – an external idea brought into an organization
+   * Implementation – How a new idea works within an org.
+   * Continuous vs discontinuous - Continuous ideas allow people to continue to work in the same way, while discontinuous ideas require new ways of working & learning
 
 Myths
 ------------------------
@@ -62,12 +61,12 @@ Patterns for introducing ideas – How to make change happen?
 ------------------------
 
 * A beginning Set
-  ** Test the Waters
-  ** Time for Reflection
-  ** Small Successes
-  ** Step by Step
+  * Test the Waters
+  * Time for Reflection
+  * Small Successes
+  * Step by Step
 * Other patterns
-  **  Ask for help
+  *  Ask for help
 
 Methods for leveraging influence over the audience
 ------------------------
